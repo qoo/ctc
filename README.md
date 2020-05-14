@@ -42,7 +42,10 @@ Custom loss matches: True
 Grad matches: True
 CE grad matches: True
 ```
-
+### Installation
+```
+conda create -n pytorch jupyter matplotlib Pillow torchvision cudatoolkit=9.2 -y
+```
 ### Alignment image example
 ![](https://user-images.githubusercontent.com/1041752/71736894-8615e800-2e52-11ea-81cb-cb95b92175c6.png)
 
