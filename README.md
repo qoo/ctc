@@ -1,3 +1,4 @@
+pytorch 1.4
 ```
 conda create -n pytorch jupyter matplotlib Pillow torchvision cudatoolkit=9.2 -y
 ```
